@@ -2,10 +2,10 @@
 
 | | |
 |---|---|
-| **Name** | _your full name_ |
-| **Nickname** | _your nickname_ |
-| **Student ID** | _6xxxxxxxx_ |
-| **Section** | 701 |
+| **Name** | _Nitchakhan Wongprateepsiri_ |
+| **Nickname** | _Foam_ |
+| **Student ID** | _692115015_ |
+| **Section** | _701_ |
 
 ## How to run
 
@@ -18,8 +18,8 @@ Then open <http://localhost:3000> and <http://localhost:3000/api/me>.
 
 ## What I learned today
 
-_Write 2–3 sentences in your own words: what happens between typing a URL and seeing the page?_
+_I learn about how to set up the file in vscode using many toolkit and also learn about the foundation like git or cd._
 
 ## AI-use statement
 
-_Did you use an AI tool in this lab? If yes, which one and for what (e.g., "ChatGPT to explain a Git error message"). If no, write "No AI tools used."_
+_No AI tools used._
