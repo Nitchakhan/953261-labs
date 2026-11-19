@@ -22,4 +22,4 @@ _I learn about how to set up the file in vscode using many toolkit and also lear
 
 ## AI-use statement
 
-_No AI tools used._
+_No AI tools used.._
